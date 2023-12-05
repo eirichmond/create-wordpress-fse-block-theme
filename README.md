@@ -1,4 +1,5 @@
-# create-wordpress-fse-block-theme
+# Creates a WordPress FSE ready Block Theme
+
 Simple bash script to create a WordPress full site editor Block Theme structure.
 
 To use this, simply place the `create.sh` file in the root folder of you WordPress installation.
